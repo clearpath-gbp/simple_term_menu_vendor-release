@@ -1,3 +1,26 @@
+## simple_term_menu_vendor (jazzy) - 1.5.7-2
+
+The packages in the `simple_term_menu_vendor` repository were released into the `jazzy` distro by running `/usr/bin/bloom-release simple_term_menu_vendor -t jazzy -r jazzy` on `Fri, 17 Jan 2025 16:40:28 -0000`
+
+The `simple_term_menu_vendor` package was released.
+
+Version of package(s) in repository `simple_term_menu_vendor`:
+
+- upstream repository: https://github.com/clearpathrobotics/simple-term-menu.git
+- release repository: https://github.com/clearpath-gbp/simple_term_menu_vendor-release.git
+- rosdistro version: `1.5.7-1`
+- old version: `1.5.7-1`
+- new version: `1.5.7-2`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.25.1`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## simple_term_menu_vendor (jazzy) - 1.5.7-1
 
 The packages in the `simple_term_menu_vendor` repository were released into the `jazzy` distro by running `/usr/bin/bloom-release -t jazzy -r jazzy simple_term_menu_vendor` on `Thu, 05 Sep 2024 16:30:47 -0000`
